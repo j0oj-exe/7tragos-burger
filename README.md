@@ -3,8 +3,8 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Preview do Site](.github/images/site-desktop.png)
-![Preview do Site-Mobile](.github/images/mobile-site.png)
+![Preview do Site](.github/site-desktop.png)
+![Preview do Site-Mobile](.github/mobile-site.png)
 
 ## 💻 Sobre o projeto
 
@@ -41,10 +41,4 @@ O projeto é totalmente responsivo, adaptando-se a:
 
 Você pode acessar a versão online do projeto através do link abaixo:
 
-🔗 **[Acesse o 7 Tragos Burger aqui](INSERIR_LINK_DO_GITHUB_PAGES_AQUI)**
-
-Ou, se preferir rodar localmente:
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/7-tragos-burger.git](https://github.com/SEU-USUARIO/7-tragos-burger.git)
+🔗 **[Acesse o 7 Tragos Burger aqui]((https://j0oj-exe.github.io/7tragos-burger/)**
