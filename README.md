@@ -42,8 +42,3 @@ O projeto é totalmente responsivo, adaptando-se a:
 
 ---
 
-## 🚀 Como visualizar o projeto
-
-Você pode acessar a versão online do projeto através do link abaixo:
-
-🔗 **[Acesse o 7 Tragos Burger aqui] (https://j0oj-exe.github.io/7tragos-burger/)**
