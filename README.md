@@ -3,8 +3,10 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Preview do Site](.github/site-desktop.png)
-![Preview do Site-Mobile](.github/mobile-site.png)
+![Preview do Site] <img width="1312" height="693" alt="site desktop" src="https://github.com/user-attachments/assets/59e1cae0-e953-43da-a86c-cf0ade2eca76" />
+
+![Preview do Site-Mobile] <img width="270" height="597" alt="mobile site" src="https://github.com/user-attachments/assets/badc40d7-1ab7-4eaf-8ea8-9a45d853e3db" />
+
 
 ## 💻 Sobre o projeto
 
