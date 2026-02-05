@@ -1,8 +1,0 @@
-# Arquivos de Sistema Operacional
-.DS_Store
-Thumbs.db
-
-# Arquivos de Editores de Texto/IDEs
-.vscode/
-.idea/
-*.sublime-workspace
